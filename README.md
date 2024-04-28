@@ -1,10 +1,7 @@
-# Hi there! I'm Sandeep Naduvinmani 👋
+![Screenshot 2024-04-28 2048391 (1)](https://github.com/SandyN12058/SandyN12058/assets/141486077/7b461915-9670-4f30-a8e2-5394254ef52c)
 
 ## 💫 About Me:
-👨‍💻 Computer Engineering student  
-💻 Tech enthusiast  
-📚 Quick learner  
-🤝 Team player  
+👨‍💻 Computer Engineering student | 💻 Tech enthusiast | 📚 Quick learner | 🤝 Team player  
 <br>
 
 ## 🌐 Socials:
