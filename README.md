@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Sandeep Naduvinmani
+## Hi there! I'm Sandeep Naduvinmani 👋
 
 # 💫 About Me:
 👨‍💻 Computer Engineering student<br>💻 Proficient in various programming languages<br>📚 Quick learner<br>🤝 Team player<br>💡 Passionate about technology and coding
