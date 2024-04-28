@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**SandyN12058/SandyN12058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+👨‍💻 Computer Engineering student | Passionate about coding | Quick learner | Team player
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- C++
+- Python
+- JavaScript
+- React
+- Node.js
+- MySQL
+- MongoDB
+- AWS
+- Express.js
+- Terraform
+- Git
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sandeep-naduvinmani)
+- [Twitter](https://twitter.com/your-twitter-handle)
+- Email: ssnnwc@gmail.com
