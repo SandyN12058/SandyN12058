@@ -4,7 +4,7 @@
 👨‍💻 Computer Engineering student | 💻 Tech enthusiast | 📚 Quick learner | 🤝 Team player  
 <br>
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-naduvinmani) 
 [![Gmail](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssnnwc@gmail.com)
 <br><br>
