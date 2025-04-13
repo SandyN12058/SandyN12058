@@ -49,7 +49,7 @@
 	</table>
 </div>
 
-<br><br>
+<br>
 
 ## 📊 GitHub Stats:
 <br>
