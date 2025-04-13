@@ -39,7 +39,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandyN12058&theme=react&hide_border=true" width="700"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandyN12058&theme=react&hide_border=true" width="810"/>
   <img src="https://github-readme-stats.vercel.app/api?username=SandyN12058&theme=react&hide_border=true&include_all_commits=true&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandyN12058&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandyN12058&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="195"/>
 </p>
