@@ -1,7 +1,9 @@
 ![Screenshot 2024-04-28 2048391 (1)](https://github.com/SandyN12058/SandyN12058/assets/141486077/7b461915-9670-4f30-a8e2-5394254ef52c)
 
-## 💫 About Me:
-👨‍💻 Final-year Computer Engineering student | 💻 Passionate about DevOps & Full Stack | 📚 Fast learner | 🤝 Collaborative team player  
+### 👋 Hi, I'm a final-year Computer Engineering student <br>
+DevOps enthusiast with strong foundations in programming, data structures, and database systems. Experienced in CI/CD pipelines, containerization, cloud infrastructure, and monitoring tools. Passionate about building scalable, automated systems with clean and reliable code.
+
+Currently learning production-grade DevOps workflows and related tools.
 <br>
 
 ## 🌐 Connect with me:
