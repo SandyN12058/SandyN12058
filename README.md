@@ -35,21 +35,8 @@
 ![VS Code](https://img.shields.io/badge/Vs_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br><br>
 
-## 🚀 Featured Projects:
-- 🔗 [Quickart - Real Estate Platform](https://github.com/your-quickart-link)
-- 🔗 [Codester - Dockerized Web App](https://github.com/your-codester-link)
-- 🔗 [Skin Cancer Classifier - ML Project](https://github.com/your-skin-cancer-classifier-link)
-<br><br>
-
 ## 📊 GitHub Stats:
 <br>
-
 ![](https://github-readme-stats.vercel.app/api?username=SandyN12058&theme=react&hide_border=true&include_all_commits=true&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SandyN12058&theme=react&hide_border=true&layout=compact)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SandyN12058&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## ⚡ GitHub Activity:
-[![Sandeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SandyN12058&bg_color=0d0d0d&color=01f411&line=2f8203&point=1fdb3e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 📈 Visitor Count:
-![Visitor Badge](https://komarev.com/ghpvc/?username=SandyN12058&label=Profile%20views&color=0e75b6&style=flat)
