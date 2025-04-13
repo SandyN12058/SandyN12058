@@ -41,5 +41,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SandyN12058&theme=react&hide_border=true&include_all_commits=true&count_private=false" width="500"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandyN12058&theme=react&hide_border=true" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandyN12058&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandyN12058&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="500"/>
 </p>
